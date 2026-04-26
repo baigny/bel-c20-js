@@ -29,8 +29,6 @@ coverage/
 *.tsbuildinfo
 
 # Environment files
-.env
-.env.*
 !.env.example
 
 # OS / editor
@@ -39,4 +37,4 @@ Thumbs.db
 *.swp
 *.swo
 .idea/
-.vscode/
+config.bat
